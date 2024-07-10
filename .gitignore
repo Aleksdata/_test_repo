@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+app/db.sqlite
 .idea
 .Python
 build/
